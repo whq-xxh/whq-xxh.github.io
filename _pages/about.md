@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify;"><font size=3> I received my Ph.D. degree in Information Engineering from The Chinese University of Hong Kong (CUHK), where I was supervised by Prof. <a href="https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/">Soung Chang Liew</a>. I received my bachelor’s degree in Electronic Engineering from Peking University (PKU), advised by Prof. <a href="https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm">Yiming Lei</a>. Currently, I am a Postdoctoral Researcher at Department of Information Engineering, CUHK. Prior to that, I was a visiting scholar at Harvard University, a communication engineer at Huawei 2012 Lab, and a hardware engineer at China Mobile.</font></p>
+<p style="text-align: justify;"><font size=3> I am a PhD student at The Hong Kong University of Science and Technology (Guangzhou), where I am under the supervision of Professor <a href="https://sites.google.com/site/indexlzhu/home">Lei Zhu</a> and co-supervised by Professor <a href="https://scholar.google.com/citations?user=ZfzEFpsAAAAJ&hl=en">Guang Yang</a>. I earned my bachelor's degree from the University of Electronic Science and Technology of China.</font></p>
 
-<p style="text-align: justify;"><font size=3>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference of Mixture-of-Experts (MoE) models at the edge.</font></p>
+<p style="text-align: justify;"><font size=3>My research is dedicated to advancing AI for healthcare, including multi-modal learning to integrate diverse clinical data into insights, active learning to empower seamless deployment and practical application of AI algorithms, and fairness to guarantee equitable care.</font></p>
+
+<p style="text-align: justify;"><font size=3>My original aspiration is to leverage these advancements to improve patient access to quality healthcare and enhance their overall well-being. Even if I can contribute just a little, I would find deep fulfillment in that.</font></p>
 
 Selected Publications <font size=3></font>
 ------
