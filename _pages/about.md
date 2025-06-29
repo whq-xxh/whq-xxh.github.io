@@ -15,6 +15,6 @@ redirect_from:
 
 What's New
 ------
-* <font size=3>The new website is online. Jun-2025</font>
+* The new website is online. Jun-2025
 
 
