@@ -7,20 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Professional Service
+Moments
 ------
-* Invited journal reviewer for:  
-  + xxxx  
-  + xxxx  
-* Invited conference reviewer for:  
-  + xxxx  
+* Lab moments xxx  
+* Personal moments xxx  
 
-Teaching
-------
-* XXXX
-* XXXX  
-
-Mentorship
-------
-* XXXX
-* XXXX  
+ 
