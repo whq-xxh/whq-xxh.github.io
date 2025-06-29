@@ -17,8 +17,8 @@ Selected Publications <font size=3></font>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>Paper1 Titile Xxxx</b></font></p>
-    <p class="pub-p"><font size=2><b>Author1</b>, Author2, Author3 <br>in IEEE Transactions on Vehicular Technology, 2025</font></p>
+    <p class="pub-p" style="color: #B22222;"><font size=3><b>Dynamic Interactive Relation Capturing via Scene Graph Learning for Robotic Surgical Report Generation</b></font></p>
+    <p class="pub-p"><font size=2><b>Hongqiu Wang</b>, Yueming Jin, Lei Zhu <br>in IEEE ICRA, 2023</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2307.05224" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/10902223" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
   </div>
@@ -28,7 +28,7 @@ Selected Publications <font size=3></font>
   </td>
   <td style="border: none;">
   <div class="col align-self-center pub">
-    <p class="pub-p"><font size=3><b>Paper2 Titile Xxxx</b></font></p>
+    <p class="pub-p" style="color: #B22222;"><font size=3><b>Paper2 Titile Xxxx</b></font></p>
     <p class="pub-p"><font size=2><b>Author1</b>, Author2, Author3, Author4 <br>in IEEE Transactions on Medical Imaging, 2025</font></p>
     <a class="btn btn-primary" role="button" href="https://arxiv.org/pdf/2402.16664" target="_blank" style="text-decoration: none;">Arxiv</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://ieeexplore.ieee.org/document/11045720" target="_blank" style="text-decoration: none;">IEEE Xplore</a>&emsp;&emsp;
