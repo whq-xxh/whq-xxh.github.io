@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "&emsp;Yuyang Du's Homepage" #&emsp;&emsp;&emsp;&emsp;
+title                    : "&emsp;Hongqiu Wang Homepage" #&emsp;&emsp;&emsp;&emsp;
 title_separator          : #"-"
-name                     : &name "Yuyang Du"
+name                     : &name "Hongqiu Wang"
 description              : &description "personal description"
-url                      : https://yuyangdu01.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://hongqiuwang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,19 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuyang Du"
+  name             : "Hongqiu Wang"
   pronouns         : # example: "he/his"  
-  bio              : "<font size=3>Postdoctoral Researcher,<br>IE Dept., CUHK</font>" #<center>
-  location         : "Hong Kong SAR, China"
+  bio              : "<font size=3>PhD student,<br>HKUST</font>" #<center>
+  location         : "Guangzhou, China"
   employer         : #CUHK
   uri              : #https://www.cuhk.edu.hk/english/index.html
-  email            : "duyuyang01@gmail.com" 
+  email            : "XXXX@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=DLDht70AAAAJ"
+  googlescholar    : "XXXX"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0001-7092-2746"
+  orcid            : #"http://orcid.org/0000-0001-7092-2746"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "yuyangdu01"
+  github           : "hongqiuwang"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
