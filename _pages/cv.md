@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "Moments"
 permalink: /activity/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Moments
-------
 * Lab moments xxx  
 * Personal moments xxx  
 
