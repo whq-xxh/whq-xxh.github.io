@@ -1,14 +1,13 @@
 ---
 permalink: /news/
-title: ""
+title: "Selected Publications"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-Selected Publications <font size=3></font>
-------
+
 <font size=2>* Equal contribution, # Corresponding author, ^ Co-adviced student</font>
 <div>
   <table style="border-collapse: collapse; border: none;">
