@@ -13,8 +13,14 @@ redirect_from:
 
 <p style="text-align: justify;"><font size=3>My original aspiration is to leverage these advancements to improve patient access to quality healthcare and enhance their overall well-being. Even if I can contribute just a little, I would find deep fulfillment in that.</font></p>
 
-What's New
+Services
 ------
-* The new website is online. Jun-2025
+Reviewers for CVPR, IEEE TMI, IEEE JBHI, Information Fusion
 
+Awards
+------
+ACM MM 2024 Multimedia Computing for Health and Medicine **Best Paper Award**
 
+IEEE TMI Distinguished Reviewer
+
+UESTC Outstanding Student Scholarship
