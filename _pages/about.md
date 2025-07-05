@@ -18,7 +18,7 @@ redirect_from:
 
 Services
 ------
-Reviewers for CVPR, ICRA, IEEE TMI, IEEE JBHI, Information Fusion
+Reviewers for CVPR, ICRA, IEEE TPAMI, IEEE TMI, MIA, IEEE JBHI, Information Fusion
 
 Awards
 ------
