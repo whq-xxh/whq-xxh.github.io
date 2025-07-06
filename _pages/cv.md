@@ -12,16 +12,13 @@ redirect_from:
 
 VIP Lab
 ------
-
-
-clickable Avatar: undefined
 <div>
   <table style="border-collapse: collapse; border: none;">
-  <tr><td width="400" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="../images/moment1.png" width="430"></div>
+  <tr><td width="360" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="../images/moment1.png" width="400"></div>
   </td>
-  <td width="400" style="border: none;">
-  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="../images/moment2.jpg" width="430"></div>
+  <td width="360" style="border: none;">
+  <div class="col-sm-5 col-md-4 col-lg-4 col-xl-4 m-auto"><img class="img-pub shadow-pub" src="../images/moment2.jpg" width="400"></div>
   </td></tr>
   
   </table>
