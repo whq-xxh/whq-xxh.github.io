@@ -49,7 +49,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  Wechat          : "whqqq7" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -70,7 +69,7 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : # Username
+  xing             : Username
   youtube          : # Username
   zhihu            : # Username
 
