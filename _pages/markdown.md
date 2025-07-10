@@ -79,8 +79,7 @@ redirect_from:
   <td style="border: none;">
   <div class="col align-self-center pub">
     <p class="pub-p" style="color: #B22222;"><font size=3><b>Non-Invasive to Invasive: Enhancing FFA Synthesis from CFP with a Benchmark Dataset and a Novel Network</b></font></p>
-    <p class="pub-p"><font size=2><b>Hongqiu Wang</b>, Xiangde Luo, Wu Chen, Qingqing Tang, Mei Xin, Qiong Wang, Lei Zhu# <br>ACM Multimedia, 2024 </font></p>
-    <p class="pub-p"><font size=2>Multimedia Computing for Health and Medicine Workshop <b>Best Paper Award 🏆 </font></p>
+    <p class="pub-p"><font size=2><b>Hongqiu Wang</b>, Xiangde Luo, Wu Chen, Qingqing Tang, Mei Xin, Qiong Wang, Lei Zhu# <br>ACM Multimedia, 2024 Multimedia Computing for Health and Medicine Workshop <b><i>Best Paper Award</i></b> 🏆</font></p>
     <a class="btn btn-primary" role="button" href="https://dl.acm.org/doi/abs/10.1145/3688868.3689194" target="_blank" style="text-decoration: none;">Paper Link</a>&emsp;&emsp;
     <a class="btn btn-primary" role="button" href="https://github.com/whq-xxh/FFA-Synthesis" target="_blank" style="text-decoration: none;">Github</a>&emsp;&emsp;
   </div>
