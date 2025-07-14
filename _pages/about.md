@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="text-align: justify;"><font size=3>My original aspiration is to leverage these advancements to improve patient access to quality healthcare and enhance their overall well-being. Even if I can contribute just a little, I would find deep fulfillment in that.</font></p>
 
-<p style="text-align: justify;"><font size=3>To everyone I meet on this journey, I wish you happiness🌅 and freedom💫, not just today.</font></p>
+<p style="text-align: justify;"><font size=3>To everyone I meet on this journey, I hope you and I can find what matters most in life—and wish us happiness🌅 and freedom💫, not just today.</font></p>
 
 
 Services
