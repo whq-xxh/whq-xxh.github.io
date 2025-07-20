@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hongqiu Wang"
   pronouns         : # example: "he/his"  
-  bio              : "<font size=3>PhD student,<br>HKUST</font>" #<center>
+  bio              : "<font size=3>PhD Candidate,<br>HKUST</font>" #<center>
   location         : "Guangzhou, China"
   employer         : #CUHK
   uri              : #https://www.cuhk.edu.hk/english/index.html
