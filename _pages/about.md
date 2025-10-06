@@ -22,6 +22,8 @@ Reviewers for CVPR, ICRA, IEEE TPAMI, IEEE TMI, MIA, IEEE JBHI, Information Fusi
 
 Awards
 ------
+MICCAI 2025 Efficient Medical Artificial Intelligence **Best Student Paper Award**
+
 ACM MM 2024 Multimedia Computing for Health and Medicine **Best Paper Award**
 
 IEEE TMI Distinguished Reviewer
